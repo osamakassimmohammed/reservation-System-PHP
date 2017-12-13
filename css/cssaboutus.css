@@ -1,0 +1,54 @@
+body{
+ background: #f3f3f3;   
+  
+}
+
+.header{
+    height: 50px;
+ background: #41464c ; 
+      color: white;
+    
+}
+
+
+.footer{
+    margin-top: 20px;
+    padding: 10px;
+    height: 50px;
+    width: 100%;
+ background: #41464c ; 
+      color: #b2b1b1;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+   
+}
+#home1{
+ margin-top: 8px;   
+}
+#logout1{
+   float: right;
+    margin-top: 4px;
+}
+
+#maint{
+ text-align: center;
+    margin-top: 15px;
+}
+
+#name{
+ background: #e3e2e2;  
+    width: 90%;
+    height: 220px;
+    margin-top: 25px;
+    
+}
+#socialmedia{
+ text-align: center;   
+ color: #41464c;
+}
+
+#text{
+ text-align: center;   
+}
